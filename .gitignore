@@ -9,4 +9,7 @@
 !.vscode/extensions.json
 
 
+### Arduino ###
+output/*
+
 # End of https://www.gitignore.io/api/visualstudiocode
